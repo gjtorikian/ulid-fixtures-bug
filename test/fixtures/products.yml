@@ -1,0 +1,5 @@
+product_one:
+  name: Name
+  description: Description
+  created_at: 1984-01-01
+  updated_at: 1994-01-01
