@@ -7,7 +7,7 @@ class ProductTest < ActiveSupport::TestCase
 
   test "it can find a product" do
     product = products(:product_one)
-    debugger
+
     assert product
   end
 end
